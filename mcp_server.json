@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+        "Tavily Expert": {
+            "url": "http://0.0.0.0:8001/mcp"
+
+        }
+    }
+}
+
