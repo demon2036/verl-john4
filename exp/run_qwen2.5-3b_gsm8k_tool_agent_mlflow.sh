@@ -2,7 +2,6 @@
 # make sure your current working directory is the root of the project
 
 set -x
-
 ulimit -n 65535
 
 PROJECT_DIR="$(pwd)"
